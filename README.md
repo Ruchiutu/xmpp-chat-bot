@@ -24,4 +24,16 @@ open url : http://localhost:3000
 
 and inspect browser and watch console for olark response
 
+"# XMPP API Testing URL"
+http://docs.xmpp-ftw.org/demo/
+
+"# Xmpp reference book "
+ practical xmpp
+ 
+ Url : https://books.google.co.in/books?id=54BcDgAAQBAJ&pg=PA106&lpg=PA106&dq=XMPP-FTW+complete+example%27&source=bl&ots=_3wTURPCoD&sig=CfWPnnBvycdpC0DXHQGXNtxdqDg&hl=en&sa=X&ved=0ahUKEwif_YDw7q7WAhUTUI8KHZaaBi8Q6AEIQjAE#v=onepage&q=XMPP-FTW%20complete%20example'&f=false
+ 
+ url : https://www.safaribooksonline.com/
+ email : deepaknath.webnexus@gmail.com
+ pass : Bewnexus(123)
+
 
