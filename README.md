@@ -8,7 +8,7 @@ password : Bewnexus(123)
 JID : deepak_webnexus@olark.com
 password : Bewnexus(123)
 
-Install package
+Install node package
 
 npm install 
 
